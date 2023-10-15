@@ -13,15 +13,6 @@ I'm an enthusiastic iOS developer from Kazakhstan, with a strong passion for gro
 - Fitness
 - Solving programming problems
 ### Skills: 
-- Swift
-- UIKit
-- SnapKit
-- Networking
-- CoreData
-- AutoLayout
-- Git
-- Firebase
-- MVC, MVP
-- SOLID, OOP
+- Swift | UIKit | SnapKit | Networking | CoreData | AutoLayout | Git | Firebase | MVC, MVP | SOLID, OOP
 ### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdikaimovn&theme=dark&show_icons=true)
