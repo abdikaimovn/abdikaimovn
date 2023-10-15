@@ -11,9 +11,7 @@ I'm an enthusiastic iOS developer from Kazakhstan, with a strong passion for gro
 - Fitness<br>
 - Solving programming problems
 <h3>Stats</h3>
-https://github-readme-streak-stats.herokuapp.com/?user=abdikaimovn
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdikaimovn&theme=dark&show_icons=true)
 
 
 
