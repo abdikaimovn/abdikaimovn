@@ -14,7 +14,7 @@ I'm an enthusiastic iOS developer from Kazakhstan, with a strong passion for gro
 - Solving programming problems
 
 ### Skills 🚀
-Swift | UIKit | SnapKit | Networking | CoreData | AutoLayout | Git | Firebase | MVC, MVP | SOLID, OOP
+Swift | UIKit | SnapKit | Networking | CoreData | AutoLayout | Git | GCD | Firebase | MVC, MVP | SOLID, OOP
 
 ### Tools 🛠
 XCode | GitHub | Figma | Git
