@@ -8,11 +8,6 @@ I'm an enthusiastic iOS developer from Kazakhstan, with a strong passion for gro
 - Software design patterns
 - Algorithms
 
-### Hobbies 🧩
-- Table tennis
-- Fitness
-- Solving programming problems
-
 ### Skills 🚀
 Swift | UIKit | SnapKit | Networking | CoreData | AutoLayout | Git | GCD | Firebase | MVC, MVP | SOLID, OOP
 
