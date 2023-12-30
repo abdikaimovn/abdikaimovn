@@ -9,10 +9,10 @@ I'm an enthusiastic iOS developer from Kazakhstan, with a strong passion for gro
 - Algorithms
 
 ### Skills 🚀
-Swift | UIKit | SnapKit | Networking | CoreData | AutoLayout | Git | GCD | Firebase | MVC, MVP | SOLID, OOP
+Swift | UIKit | SnapKit | Networking (URLSession / Alamofire) | CoreData, UserDefaults, KeyChain | AutoLayout | Git | Concurrency, GCD | Firebase | MVC, MVP, MVVM | SOLID, OOP 
 
 ### Tools 🛠
-XCode | GitHub | Figma | Git
+XCode | GitHub | Figma | Git 
 ### Stats 🎯
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdikaimovn&theme=dark&show_icons=true)
 
