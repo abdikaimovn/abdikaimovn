@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Nurdaulet Abdikaimov 💻 
+### Howdy 👋 I'm Nurdaulet 💻 
 
 ### About me 🍀
 I'm an enthusiastic iOS developer from Kazakhstan, with a strong passion for growth in this field. I'm constantly seeking opportunities for development and achieving success.
