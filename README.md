@@ -9,7 +9,7 @@ I'm an enthusiastic iOS developer from Kazakhstan, with a strong passion for gro
 - Algorithms
 
 ### Hard Skills 🚀
-Swift | UIKit | SnapKit, AutoLayout | Networking (URLSession / Alamofire) | CoreData, UserDefaults, KeyChain, Realm | Git | Concurrency/GCD | Firebase | MVC, MVP, MVVM/coordinator | SOLID, OOP 
+Swift | UIKit | SnapKit, AutoLayout | Networking (URLSession / Alamofire) | CoreData, UserDefaults, KeyChain, Realm | Git | Concurrency/GCD | Firebase | MVC, MVP, MVVM/Observable | SOLID, OOP 
 
 ### Tools 🛠
 XCode | GitHub | Figma | Git 
